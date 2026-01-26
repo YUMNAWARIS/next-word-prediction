@@ -217,4 +217,4 @@ __marimo__/
 
 .venv
 
-data/processed/processed_sequences.pkl
+data
